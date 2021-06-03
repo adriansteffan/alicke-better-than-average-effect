@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
+<surveyProject version="2.4" timestamp="2021-06-03 22:57:03" program="oFb" progversion="3.2.29 1303">
+<title>Sozialpsychologie BTA</title>
+<description />
+<attributes.specific program="ofb">
+<attr id="language">ger</attr>
+<attr id="projectBackground">tutorial</attr>
+</attributes.specific>
+<section>
+<title>Individual Traits</title>
+<attributes.specific program="ofb">
+<attr id="id">A0</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<question>
+<description>Avg Individual Trait Fragebogen</description>
+<class>scale</class>
+<title>Schätzen Sie bitte ein, inwiefern die unten angegebenen Eigenschaften auf sie zutreffen, wenn sie sich mit dem durchschnittlichen Studenten vergleichen.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">deutlich weniger als der durchschnittliche Student</li>
+<li i="5">ungefähr so wie der durchschnittliche Student</li>
+<li i="9">deutlich mehr als der durchschnittliche Student</li>
+</labels>
+<order>random</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">9</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Zuverlässig</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Intelligent</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Rücksichtsvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Aufmerksam</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Höflich</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Klar im Kopf</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Respektvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vernünftig</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Einfallsreich</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Klug</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Kooperativ</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ehrenhaft</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Verlässlich</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Einfühlsam</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vertrauensvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Reif</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Freundlich</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Kreativ</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Verantwortungsvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Fantasievoll</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Aufdringlich</text>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unsicher</text>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Boshaft</text>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eingebildet</text>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Nörgelnd</text>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Leichtgläubig</text>
+<attributes.specific program="ofb">
+<attr id="id">26</attr>
+<attr id="pos">26</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trügerisch</text>
+<attributes.specific program="ofb">
+<attr id="id">27</attr>
+<attr id="pos">27</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Angriffslustig</text>
+<attributes.specific program="ofb">
+<attr id="id">28</attr>
+<attr id="pos">28</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ungehorsam</text>
+<attributes.specific program="ofb">
+<attr id="id">29</attr>
+<attr id="pos">29</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Humorlos</text>
+<attributes.specific program="ofb">
+<attr id="id">30</attr>
+<attr id="pos">30</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unhöflich</text>
+<attributes.specific program="ofb">
+<attr id="id">31</attr>
+<attr id="pos">31</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unangenehm</text>
+<attributes.specific program="ofb">
+<attr id="id">32</attr>
+<attr id="pos">32</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Versnobt</text>
+<attributes.specific program="ofb">
+<attr id="id">33</attr>
+<attr id="pos">33</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Faul</text>
+<attributes.specific program="ofb">
+<attr id="id">34</attr>
+<attr id="pos">34</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unwissend</text>
+<attributes.specific program="ofb">
+<attr id="id">35</attr>
+<attr id="pos">35</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Lügner</text>
+<attributes.specific program="ofb">
+<attr id="id">36</attr>
+<attr id="pos">36</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Respektlos</text>
+<attributes.specific program="ofb">
+<attr id="id">37</attr>
+<attr id="pos">37</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gemein</text>
+<attributes.specific program="ofb">
+<attr id="id">38</attr>
+<attr id="pos">38</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Nachtragend</text>
+<attributes.specific program="ofb">
+<attr id="id">39</attr>
+<attr id="pos">39</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unangepasst</text>
+<attributes.specific program="ofb">
+<attr id="id">40</attr>
+<attr id="pos">40</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Pair Individual Trait Fragebogen</description>
+<class>scale</class>
+<title>Schätzen Sie bitte ein, inwiefern die unten angegebenen Eigenschaften auf sie zutreffen, wenn sie sich mit dem anderen Studierenden in ihrer Breakout Session vergleichen</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">deutlich weniger als der andere Studierende</li>
+<li i="5">ungefähr so wie der andere Studierende</li>
+<li i="9">deutlich mehr als der andere Studierende</li>
+</labels>
+<order>random</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">9</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Zuverlässig</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Intelligent</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Rücksichtsvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Aufmerksam</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Höflich</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Klar im Kopf</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Respektvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vernünftig</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Einfallsreich</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Klug</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Kooperativ</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ehrenhaft</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Verlässlich</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Einfühlsam</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vertrauensvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Reif</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Freundlich</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Kreativ</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Verantwortungsvoll</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Fantasievoll</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Aufdringlich</text>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unsicher</text>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Boshaft</text>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eingebildet</text>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Nörgelnd</text>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Leichtgläubig</text>
+<attributes.specific program="ofb">
+<attr id="id">26</attr>
+<attr id="pos">26</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trügerisch</text>
+<attributes.specific program="ofb">
+<attr id="id">27</attr>
+<attr id="pos">27</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Angriffslustig</text>
+<attributes.specific program="ofb">
+<attr id="id">28</attr>
+<attr id="pos">28</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ungehorsam</text>
+<attributes.specific program="ofb">
+<attr id="id">29</attr>
+<attr id="pos">29</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Humorlos</text>
+<attributes.specific program="ofb">
+<attr id="id">30</attr>
+<attr id="pos">30</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unhöflich</text>
+<attributes.specific program="ofb">
+<attr id="id">31</attr>
+<attr id="pos">31</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unangenehm</text>
+<attributes.specific program="ofb">
+<attr id="id">32</attr>
+<attr id="pos">32</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Versnobt</text>
+<attributes.specific program="ofb">
+<attr id="id">33</attr>
+<attr id="pos">33</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Faul</text>
+<attributes.specific program="ofb">
+<attr id="id">34</attr>
+<attr id="pos">34</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unwissend</text>
+<attributes.specific program="ofb">
+<attr id="id">35</attr>
+<attr id="pos">35</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Lügner</text>
+<attributes.specific program="ofb">
+<attr id="id">36</attr>
+<attr id="pos">36</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Respektlos</text>
+<attributes.specific program="ofb">
+<attr id="id">37</attr>
+<attr id="pos">37</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gemein</text>
+<attributes.specific program="ofb">
+<attr id="id">38</attr>
+<attr id="pos">38</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Nachtragend</text>
+<attributes.specific program="ofb">
+<attr id="id">39</attr>
+<attr id="pos">39</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unangepasst</text>
+<attributes.specific program="ofb">
+<attr id="id">40</attr>
+<attr id="pos">40</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Live Events</title>
+<attributes.specific program="ofb">
+<attr id="id">A1</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<question>
+<description>Avg Lebensevents Fragebogen</description>
+<class>scale</class>
+<title>Schätzen Sie bitte ein, wie hoch ihre Chancen  sind, die folgenden Lebensereignisse zu erleben, verglichen mit dem durchschnittlichen Studierenden.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">deutlich niedriger als die des durchschnittlichen Studierenden</li>
+<li i="5">genau so hoch wie die des durchschnittlichen Studierenden</li>
+<li i="9">deutlich höher als die des durchschnittlichen Studierenden</li>
+</labels>
+<lead>Meine Chancen sind ...</lead>
+<order>random</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">9</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Job nach Studium mögen</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eigenheim besitzen</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>
+<![CDATA[Einstiegsgehalt > 30.000 Euro jährlich]]>
+</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Weltreise machen</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>
+<![CDATA[Einstiegsgehalt > 45.000 Euro jährlich]]>
+</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gutes Jobangebot vor Abschluss</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Bei Studienabschluss zum besten Drittel des Jahrgangs gehören</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eigenheim verdoppelt sich im Wert innerhalb von 5 Jahren</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Deine Arbeit wird mit einem Preis ausgezeichnet</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Älter als 80 werden</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Deine Erfolge werden in der Zeitung veröffentlicht</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Für 5 Jahre keine Übernachtung im Krankenhaus</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ein hochbegabtes Kind haben</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Landesweite annerkennung innerhalb des Berufs</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>10 Jahre lang das Gewicht halten</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>In 10 Jahren mehr als 100.000 Euro jährlich verdienen</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Den ganzen Winter nicht krank sein</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eine wohlhabende Person heiraten</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Alkoholismus</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Scheidung wenige Jahre nach Hochzeit</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Herzinfarkt vor 40</text>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+</attributes.specific>
+</item>
+<item>
+<text>An einer Geschlechtskrankheit erkranken</text>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gefeuert werden</text>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unfruchtbar sein</text>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Das Studium abbrechen</text>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Herzinfarkt</text>
+<attributes.specific program="ofb">
+<attr id="id">26</attr>
+<attr id="pos">26</attr>
+</attributes.specific>
+</item>
+<item>
+<text>6 Monate lang arbeitssuchend sein</text>
+<attributes.specific program="ofb">
+<attr id="id">27</attr>
+<attr id="pos">27</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Kaputter Zahn gezogen</text>
+<attributes.specific program="ofb">
+<attr id="id">28</attr>
+<attr id="pos">28</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Zahnfleischprobleme</text>
+<attributes.specific program="ofb">
+<attr id="id">29</attr>
+<attr id="pos">29</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gezwungen sein, einen schlechten Job anzunehmen</text>
+<attributes.specific program="ofb">
+<attr id="id">30</attr>
+<attr id="pos">30</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Auto entpuppt sich als Schrottkarre</text>
+<attributes.specific program="ofb">
+<attr id="id">31</attr>
+<attr id="pos">31</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Feststellen, den falschen Karriereweg eingeschlagen zu haben</text>
+<attributes.specific program="ofb">
+<attr id="id">32</attr>
+<attr id="pos">32</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Stolpern und Knochenbruch</text>
+<attributes.specific program="ofb">
+<attr id="id">33</attr>
+<attr id="pos">33</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Verklagt werden</text>
+<attributes.specific program="ofb">
+<attr id="id">34</attr>
+<attr id="pos">34</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Auto wird geklaut</text>
+<attributes.specific program="ofb">
+<attr id="id">35</attr>
+<attr id="pos">35</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Opfer eines Überfalls sein</text>
+<attributes.specific program="ofb">
+<attr id="id">36</attr>
+<attr id="pos">36</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Für mehr als zwei Tage am Stück krank im Bett liegen</text>
+<attributes.specific program="ofb">
+<attr id="id">37</attr>
+<attr id="pos">37</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Opfer eines Einbruchs sein</text>
+<attributes.specific program="ofb">
+<attr id="id">38</attr>
+<attr id="pos">38</attr>
+</attributes.specific>
+</item>
+<item>
+<text>In Autounfall verletzt werden</text>
+<attributes.specific program="ofb">
+<attr id="id">39</attr>
+<attr id="pos">39</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Pair Lebensevents Fragebogen</description>
+<class>scale</class>
+<title>Schätzen Sie bitte ein, wie hoch ihre Chancen  sind, die folgenden Lebensereignisse zu erleben, verglichen mit dem anderen Studierenden in ihrer Breakout Session.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">deutlich niedriger als die des anderen Studierenden</li>
+<li i="5">genau so hoch wie die des anderen Studierenden</li>
+<li i="9">deutlich höher als die des durchschanderen Studierenden</li>
+</labels>
+<lead>Meine Chancen sind ...</lead>
+<order>random</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">9</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Job nach Studium mögen</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eigenheim besitzen</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>
+<![CDATA[Einstiegsgehalt > 30.000 Euro jährlich]]>
+</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Weltreise machen</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>
+<![CDATA[Einstiegsgehalt > 45.000 Euro jährlich]]>
+</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gutes Jobangebot vor Abschluss</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Bei Studienabschluss zum besten Drittel des Jahrgangs gehören</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eigenheim verdoppelt sich im Wert innerhalb von 5 Jahren</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Deine Arbeit wird mit einem Preis ausgezeichnet</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Älter als 80 werden</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Deine Erfolge werden in der Zeitung veröffentlicht</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Für 5 Jahre keine Übernachtung im Krankenhaus</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ein hochbegabtes Kind haben</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Landesweite annerkennung innerhalb des Berufs</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>10 Jahre lang das Gewicht halten</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>In 10 Jahren mehr als 100.000 Euro jährlich verdienen</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Den ganzen Winter nicht krank sein</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Eine wohlhabende Person heiraten</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Alkoholismus</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Scheidung wenige Jahre nach Hochzeit</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Herzinfarkt vor 40</text>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+</attributes.specific>
+</item>
+<item>
+<text>An einer Geschlechtskrankheit erkranken</text>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gefeuert werden</text>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Unfruchtbar sein</text>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Das Studium abbrechen</text>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Herzinfarkt</text>
+<attributes.specific program="ofb">
+<attr id="id">26</attr>
+<attr id="pos">26</attr>
+</attributes.specific>
+</item>
+<item>
+<text>6 Monate lang arbeitssuchend sein</text>
+<attributes.specific program="ofb">
+<attr id="id">27</attr>
+<attr id="pos">27</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Kaputter Zahn gezogen</text>
+<attributes.specific program="ofb">
+<attr id="id">28</attr>
+<attr id="pos">28</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Zahnfleischprobleme</text>
+<attributes.specific program="ofb">
+<attr id="id">29</attr>
+<attr id="pos">29</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Gezwungen sein, einen schlechten Job anzunehmen</text>
+<attributes.specific program="ofb">
+<attr id="id">30</attr>
+<attr id="pos">30</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Auto entpuppt sich als Schrottkarre</text>
+<attributes.specific program="ofb">
+<attr id="id">31</attr>
+<attr id="pos">31</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Feststellen, den falschen Karriereweg eingeschlagen zu haben</text>
+<attributes.specific program="ofb">
+<attr id="id">32</attr>
+<attr id="pos">32</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Stolpern und Knochenbruch</text>
+<attributes.specific program="ofb">
+<attr id="id">33</attr>
+<attr id="pos">33</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Verklagt werden</text>
+<attributes.specific program="ofb">
+<attr id="id">34</attr>
+<attr id="pos">34</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Auto wird geklaut</text>
+<attributes.specific program="ofb">
+<attr id="id">35</attr>
+<attr id="pos">35</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Opfer eines Überfalls sein</text>
+<attributes.specific program="ofb">
+<attr id="id">36</attr>
+<attr id="pos">36</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Für mehr als zwei Tage am Stück krank im Bett liegen</text>
+<attributes.specific program="ofb">
+<attr id="id">37</attr>
+<attr id="pos">37</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Opfer eines Einbruchs sein</text>
+<attributes.specific program="ofb">
+<attr id="id">38</attr>
+<attr id="pos">38</attr>
+</attributes.specific>
+</item>
+<item>
+<text>In Autounfall verletzt werden</text>
+<attributes.specific program="ofb">
+<attr id="id">39</attr>
+<attr id="pos">39</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<layoutTexts>
+<layoutText id="default.imprint"><txt lng="ger"><![CDATA[<a href="mailto:adrian.steffan@campus.lmu.de">B.Sc. Adrian Steffan</a>, 
+Ludwig-Maximilians-Universität München – 2021]]></txt></layoutText>
+</layoutTexts>
+<questionnaire>
+<title>Questionnaire</title>
+<attributes.specific program="ofb">
+<attr id="id">base</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;page ident=&quot;IT&quot; intID=&quot;1&quot;&gt;
+&lt;php intID=&quot;2&quot;&gt;&lt;![CDATA[
+registerVariable('group');
+$group = readGET('g');
+if ($group == 1) {
+  question('A001');
+} else {
+  question('A002');
+}
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 2 --&gt;
+&lt;page ident=&quot;LE&quot; intID=&quot;3&quot;&gt;
+&lt;php intID=&quot;4&quot;&gt;&lt;![CDATA[
+if ($group == 1) {
+  question('A101');
+} else {
+  question('A102');
+}
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Vielen Dank für Ihre Teilnahme!</h1>
+
+<p>Wir möchten uns ganz herzlich für Ihre Mithilfe bedanken.</p>
+
+<!-- Hier evtl. noch Zweck der Studie, Ansprechpartner, etc. -->
+ 
+<p>Ihre Antworten wurden gespeichert, Sie können das Browser-Fenster nun schließen.</p>
+
+<!-- Zusätzlicher Abstand (ggf. entfernen/anpassen) -->
+<div style="padding-bottom: 20px"></div>]]>
+</attr>
+<attr id="selection">1</attr>
+</attributes.specific>
+</questionnaire>
+</surveyProject>
