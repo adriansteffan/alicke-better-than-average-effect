@@ -1,6 +1,6 @@
 # Personal Contact, Individuation, and the Better-Than-Average Effect
 
-This repo contains both a [soscisurvey](https://www.soscisurvey.de/) export and a R analysis script to demonstrate the studies done in the paper [Personal Contact, Individuation, and the Better-Than-Average Effect](https://www.researchgate.net/publication/232581252_Personal_Contact_Individuation_and_the_Better-Than-Average_Effect) by Alicke et al. (1995) in a classroom setting.
+This repo contains both a [soSciSurvey](https://www.soscisurvey.de/) export and a R analysis script to demonstrate the studies done in the paper [Personal Contact, Individuation, and the Better-Than-Average Effect](https://www.researchgate.net/publication/232581252_Personal_Contact_Individuation_and_the_Better-Than-Average_Effect) by Alicke et al. (1995) in a classroom setting.
 
 
 The items were translated to German, but the original items from the paper are still availabe in the R script, so you can replace those in the survey if you wish to use this in an english speaking class.
@@ -13,7 +13,7 @@ This survey was intended for a teaching session using [Zoom](https://zoom.us/), 
 
 ## Instructions
 
-### Importing the study into soScisurvey
+### Importing the study into soSciSurvey
 
 After creating your project on [soSci](https://www.soscisurvey.de/), go into `Project Settings` > `Import Project or Questions` and upload the `project.xml` file. 
 
