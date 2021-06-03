@@ -37,4 +37,4 @@ Download the data from soSci with the below settings:
 Rename the file to `data.csv`, place it in the same folder as the analysis script and run the analysis in R Studio.
 
 ## Authors
-* Adrian Steffan [adriansteffan](https://github.com/adriansteffan)
+* Adrian Steffan [adriansteffan](https://github.com/adriansteffan) [website](https://adriansteffan.com/)
