@@ -28,7 +28,7 @@ Split the class into two groups:
 * One group that has to compare themselves to another person. This group gets split into seperate breakout sessions, each containing two students. Send them this link: `https://www.soscisurvey.de/YOURSURVEYNAME`
 
 
-Now wait for all students to finish taking the presented survey.
+Now wait for all students to finish taking the presented survey. Important: Instruct the students to complete every single survey item, as soscisurvey has an interesting bug where groups can switch if some items are not filled in when submitting (?)
 
 ### Analysing the data and presenting the results
 
